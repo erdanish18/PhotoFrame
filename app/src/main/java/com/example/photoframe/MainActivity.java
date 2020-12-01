@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView pic;
     TextView text;
     int currentImage = 0;
+    
     // 0-1-2-3-4-0-1-2-3-4
     // aplpha is used to get the image blur or not the image is there but with 0 taking in it can
     // make the image invisible and 1 make it visible.
